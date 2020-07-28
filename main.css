@@ -1,0 +1,53 @@
+body {
+  background: linear-gradient(90deg, #CCFFFF, #FFCCCC);
+}
+
+section h1 {
+  text-shadow: -0.5vw 0 #FF969D, 0 0.5vw #FF969D, 0.5vw 0 #FF969D, 0 -0.5vw #FF969D;
+  font-size: 10.25vw;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+p {
+  color: #FF969D;
+  text-align: center;
+}
+
+form {
+  background-color: #FFE1E9;
+  padding: 15px 20px 15px 20px;
+  max-width: 950px;
+  margin-left: 50px;
+  margin-right: 50px;
+  border-radius: 1vw;
+  border-style: solid;
+  border-color: white;
+  border-width: medium;
+}
+
+form label {
+  margin-left: 12px;
+  color: white;
+  text-shadow: -0.2vw 0 #FF969D, 0 0.2vw #FF969D, 0.2vw 0 #FF969D, 0 -0.2vw #FF969D;
+    font-size: 2.25vw;
+}
+
+form input {
+  margin-left: 10px;
+  max-width: 900px;
+}
+
+button {
+  margin-left: 250px;
+  background-color: #CCFFFF;
+  border-radius: 1vw;
+  border-style: solid;
+  border-color: white;
+  border-width: medium;
+  font-size: 15px;
+  color: white;
+  text-shadow: -0.2vw 0 #FF969D, 0 0.2vw #FF969D, 0.2vw 0 #FF969D, 0 -0.2vw #FF969D;
+}
+
